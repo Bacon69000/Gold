@@ -1,0 +1,89 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "backstage",
+		"player1": "bf",
+		"player2": "bandu",
+		"player3": null,
+		"events": [
+			[
+				73846.1538461538,
+				[
+					[
+						"Play Animation",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				73894.2307692307,
+				[
+					[
+						"Change Character",
+						"1",
+						"bandu-sad"
+					]
+				]
+			],
+			[
+				175589.743589743,
+				[
+					[
+						"Play Animation",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				194256.41025641,
+				[
+					[
+						"Change Character",
+						"1",
+						"expunged-bambi"
+					]
+				]
+			],
+			[
+				194339.743589743,
+				[
+					[
+						"HealthDrain",
+						"0.1",
+						"0.01"
+					]
+				]
+			],
+			[
+				195589.743589743,
+				[
+					[
+						"notestuns",
+						"308",
+						"20000000"
+					]
+				]
+			],
+			[
+				195673.076923076,
+				[
+					[
+						"HealthDrain",
+						"0.1",
+						"0.01"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 156,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "applecore"
+	}
+}

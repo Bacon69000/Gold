@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "disrupt",
+		"player1": "bf",
+		"player2": "bambi-pissed",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"HealthDrain",
+						"0.3",
+						"0.00"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 330,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "disruption"
+	}
+}

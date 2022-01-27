@@ -1,0 +1,48 @@
+{
+	"song": {
+		"speed": 3.6,
+		"stage": "3dFucked",
+		"player1": "bf",
+		"player2": "expunged-tilt",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"HealthDrain",
+						"0.5",
+						"1"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Opponent Fade",
+						"7",
+						"0"
+					]
+				]
+			],
+			[
+				96005.2083333333,
+				[
+					[
+						"Screen Shake",
+						"1, 0.03",
+						"1, 0.03"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 120,
+		"needsVoices": true,
+		"song": "Opposition"
+	}
+}

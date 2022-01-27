@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GoldenAppleMenuItems.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	
+	<SubTexture name="freeplay basic0000" x="970" y="1105" width="223" height="119" pivotX="-254.9" pivotY="10.55"/>
+	<SubTexture name="freeplay basic0001" x="970" y="1105" width="223" height="119"/>
+	<SubTexture name="freeplay basic0002" x="970" y="1105" width="223" height="119"/>
+	<SubTexture name="freeplay basic0003" x="308" y="1245" width="223" height="119"/>
+	<SubTexture name="freeplay basic0004" x="308" y="1245" width="223" height="119"/>
+	<SubTexture name="freeplay basic0005" x="308" y="1245" width="223" height="119"/>
+	<SubTexture name="freeplay basic0006" x="541" y="1245" width="223" height="119"/>
+	<SubTexture name="freeplay basic0007" x="541" y="1245" width="223" height="119"/>
+	<SubTexture name="freeplay basic0008" x="541" y="1245" width="223" height="119"/>
+	<SubTexture name="freeplay white0000" x="1244" y="1244" width="266" height="141" pivotX="-233.85" pivotY="24.2" frameX="0" frameY="-3" frameWidth="266" frameHeight="144"/>
+	<SubTexture name="freeplay white0001" x="3729" y="333" width="264" height="140" frameX="-1" frameY="-3" frameWidth="266" frameHeight="144"/>
+	<SubTexture name="freeplay white0002" x="970" y="1244" width="264" height="143" frameX="-1" frameY="0" frameWidth="266" frameHeight="144"/>
+</TextureAtlas>

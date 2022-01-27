@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "disabled",
+		"player1": "bf",
+		"player2": "dave-3d",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"notestuns",
+						"202.48",
+						"150000"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 182,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "disability"
+	}
+}
